@@ -26,7 +26,7 @@ a Raspberry Pi 5 runs. That gap is this project.
 1. Build the remake for aarch64 Linux and get it running on a Pi 5.
 2. Make it feel like a handheld: boots straight into the game, controller mapped,
    screen and performance tuned for the Pi's GPU.
-3. A shell designed in Fusion 360 and printed on my own FDM printers.
+3. A shell designed in Fusion 360 and printed on my own 3D printers.
 
 ## Minimum viable product
 
