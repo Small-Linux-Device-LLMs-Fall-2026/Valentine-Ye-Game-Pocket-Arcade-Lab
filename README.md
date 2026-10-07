@@ -49,7 +49,7 @@ controller at a tolerable frame rate.
 
 ## Hardware
 
-- Raspberry Pi 5 (8 GB), aarch64
+- Raspberry Pi 5 (16 GB), aarch64
 - Display and controller: to be chosen (tracked in Issues)
 - Shell: 3D-printed, Handmade refined (FDM 3D Printing, Stereolithography Resin Printing)
 
